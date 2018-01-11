@@ -1,0 +1,8 @@
+Avenues to explore:
+
+Web Server through Flask/Django/Apache
+JS/Frameworks Angular/Express/React
+Storage through MongoDB/Redis/ElasticSearch/Cassandra
+Server up through Raspbian/CentOS/RPM flavors
+
+Mobile App Dev through UNIX/Windows
